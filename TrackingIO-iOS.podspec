@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TrackingIO-iOS"
-  spec.version      = "1.6.0"
+  spec.version      = "1.7.8"
   spec.summary      = "ReYun TrackingIO SDK"
 
   spec.description  = <<-DESC
@@ -28,8 +28,8 @@ Pod::Spec.new do |spec|
   spec.static_framework = true
   spec.xcconfig = { 'LIBRARY_SEARCH_PATHS' => '"$(PODS_ROOT)/TrackingIO-iOS/TrackingIO/**"' }
   
-  spec.frameworks = 'SystemConfiguration','AdSupport','CoreTelephony','Security','CoreMotion',"iAd",'AVFoundation'
+  spec.frameworks = 'SystemConfiguration','AdSupport','CoreTelephony','Security','CoreMotion',"iAd",'AVFoundation',"WebKit","CFNetwork"
 
-  spec.libraries  = 'sqlite3','ReYunTracking',"z"
+  spec.libraries  = 'sqlite3','ReYunTracking',"z","resolv"
 
 end
