@@ -1,6 +1,7 @@
 Note
-This is a fork of version 1.7.8 of the TrackingIO library, reportedly already including CAID (China Anonymization ID)
-For analysis and research. Please DO NOT use this library in production.
+TrackingIO library, reportedly already including CAID (China Anonymization ID)
+Versions: 1.7.8, 1.8.0
+For analysis and research. Please do not use this library in production.
 
 Links:
 
