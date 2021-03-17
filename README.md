@@ -1,7 +1,11 @@
 
 TrackingIO library, reportedly already including CAID (China Anonymization ID)
+
 Versions: 1.7.8, 1.8.0
-For analysis and research. Please do not use this library in production.
+
+For analysis and research. 
+
+Please do not use this library in production.
 
 Links:
 
