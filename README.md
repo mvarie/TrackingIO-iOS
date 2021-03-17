@@ -13,5 +13,7 @@ https://web.archive.org/web/20210316035745/docs.trackingio.com/CAID%E6%8E%A5%E5%
 
 https://web.archive.org/web/20210316154926/http://docs.trackingio.com/IOS.html
 
+https://world.hey.com/dhh/apple-in-china-privacy-principles-purses-and-pickles-94ea1c2a
+
 # TrackingIO
 热云iOS库
